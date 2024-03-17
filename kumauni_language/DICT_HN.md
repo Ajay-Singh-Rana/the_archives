@@ -170,7 +170,9 @@ Ya(u) | This
 Yu | Used for addressing dogs when their name is not known
 Z |
 
-** () have been used to encapsulate letters with minor sound
-** [] have been used to encapsulate a context/side-note
-** {} to be reviewed
+**Notes:**
+ + **()** have been used to encapsulate letters with minor sound
+ + **[]** have been used to encapsulate a context/side-note
+ + **{}** to be reviewed
+**Footnotes:**
 1. Shows an inclusive society with shared culture which got divided into categories somehow
